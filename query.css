@@ -1,0 +1,20 @@
+@media (min-width:300px) and (max-width:1000px) {
+    body{
+        background-color: hsl(225, 100%, 94%);
+        background-image:url(images/pattern-background-mobile.svg) ;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .preview-body{
+        height: 90%;
+        width: 90%;
+        background-color: #ffffff;
+        border-radius: 16px;
+       
+    
+    }
+    .preview-bottom div>h4{
+        width: fit-content;
+    }
+
+}
